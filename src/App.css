@@ -1,0 +1,18 @@
+.bg-2{
+  background-image: url("bg.jpg");
+ 
+ 
+}
+
+li{
+  border: 2px solid rgb(100, 100, 65);
+  border-radius: 8px;
+  padding-left: 5px;
+  padding-right: 5pX;
+  
+
+
+}
+.active{
+  background: rgb(161, 212, 8)
+}
